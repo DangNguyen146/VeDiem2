@@ -1,0 +1,4 @@
+﻿Source.obj : error LNK2019: unresolved external symbol _line referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _putpixel referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _initwindow referenced in function _main
+F:\OOP\VeDiem2\Debug\VeDiem2.exe : fatal error LNK1120: 3 unresolved externals
